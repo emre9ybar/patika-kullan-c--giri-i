@@ -1,2 +1,2 @@
-# patika-kullanici girisi
+# patika-kullanıcı girisi
 Kullanıcı Girişi 
