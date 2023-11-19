@@ -1,2 +1,2 @@
-# patika-kullan-c--giri-i
+# patika-kullanici girisi
 Kullanıcı Girişi 
